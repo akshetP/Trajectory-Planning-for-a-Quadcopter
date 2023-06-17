@@ -14,7 +14,7 @@ Open the file [quadcopter_script.m](Implementation/quadcopter_script.m) in MATLA
 
 ## Result
 The trajectory of the drone is shown below:
-[](Results/q3_fig1_quadcopter_trajectory.png)
+![](Results/q3_fig1_quadcopter_trajectory.png)
 
 ## License 
 [MIT](LICENSE)
