@@ -12,5 +12,9 @@ The task description is detailed [here in Question 3a).](Task_Description.pdf)
 ## How to run the package
 Open the file [quadcopter_script.m](Implementation/quadcopter_script.m) in MATLAB and run it with additional installation of necessary toolboxes.
 
+## Result
+The trajectory of the drone is shown below:
+[](Results/q3_fig1_quadcopter%20trajectory.png)
+
 ## License 
 [MIT](LICENSE)
