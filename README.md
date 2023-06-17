@@ -13,4 +13,4 @@ The task description is detailed [here in Question 3a).](Task_Description.pdf)
 Open the file [quadcopter_script.m](Implementation/quadcopter_script.m) in MATLAB and run it with additional installation of necessary toolboxes.
 
 ## License 
-[MIT](LICENSE.md)
+[MIT](LICENSE)
